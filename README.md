@@ -6,4 +6,24 @@ We provide better quality word embeddings than the [pre-trained FastText embeddi
 
 | Language | Link to Model  |
 |----------|-----------------|
-| amh |   |
+| amh | [Amharic FastText](https://zenodo.org/record/6988528#.YvePxXUzY5k)  |
+| bam |   |
+| bbj |   |
+| ewe |   |
+| fon |   |
+| hau |   |
+| ibo |   |
+| kin |   |
+| lug |   |
+| luo |   |
+| mos |   |
+| nya |   |
+| pcm |   |
+| sna |   |
+| swa |   |
+| tsn |   |
+| twi |   |
+| wol |   |
+| xho |   |
+| yor |   |
+| zul |   |
