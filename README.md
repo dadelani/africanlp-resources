@@ -6,10 +6,7 @@ We provide better quality word embeddings than the [pre-trained FastText embeddi
 
 The FastText embeddings are trained on curated data from JW300, Bible, VOA, BBC, and other news websites. Details of the data sources are in my PhD dissertation. 
 
-We trained the FastText embeddings using [Gensim 3.8.1](https://pypi.org/project/gensim/3.8.1/)
-
-
-All embedding models can be downloaded from Zenodo. Please, find the links below. 
+We trained the FastText embeddings using [Gensim 3.8.1](https://pypi.org/project/gensim/3.8.1/). All embedding models can be downloaded from Zenodo. Please, find the links below. 
 
 | Language | Link to Model  |
 |----------|-----------------|
