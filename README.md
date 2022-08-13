@@ -13,7 +13,7 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 ## Multilingual Pre-trained Language Models
 
 | Model | Size  | Languages covered |
-|----------|-----------------|
+|-------|-------|-----------------|
 | AfroXLMR-mini | |
 | AfroXLMR-small | |
 | AfroXLMR-base | |
