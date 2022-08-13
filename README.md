@@ -43,10 +43,10 @@ We trained the FastText embeddings using [Gensim 3.8.1](https://pypi.org/project
 | ibo | [Igbo FastText](https://zenodo.org/record/6988731#.Yve923UzY5k)  |
 | kin | [Kinyarwanda FastText](https://zenodo.org/record/6988740#.Yve93nUzY5k)  |
 | lug | [Luganda FastText](https://zenodo.org/record/6988742#.Yve94XUzY5k)  |
-| luo |   |
-| mos |   |
+| luo | [Luo FastText](https://zenodo.org/record/6988914#.Yve_bHUzY5k)  |
+| mos | [Mossi FastText](https://zenodo.org/record/6988918#.Yve_bXUzY5k) |
 | nya |   |
-| pcm |   |
+| pcm | [Nigerian-Pidgin FastText](https://zenodo.org/record/6988939#.YvfDDHUzY5k)  |
 | sna |   |
 | swa |   |
 | tsn |   |
