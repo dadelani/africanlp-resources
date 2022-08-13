@@ -7,6 +7,8 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 |----------|-----------------|----------------------------|
 | MasakhaNER | | |
 | MAFAND-MT | | |
+| ANTC      | | |
+
 
 ## Multilingual Pre-trained Language Models
 
