@@ -47,7 +47,7 @@ We trained the FastText embeddings using [Gensim 3.8.1](https://pypi.org/project
 | mos | [Mossi FastText](https://zenodo.org/record/6988918#.Yve_bXUzY5k) |
 | nya |   |
 | pcm | [Nigerian-Pidgin FastText](https://zenodo.org/record/6988939#.YvfDDHUzY5k)  |
-| sna |   |
+| sna | [Setswana FastText](https://zenodo.org/record/6989116#.YvfNc3UzY5k) |
 | swa |   |
 | tsn |   |
 | twi | [Twi FastText](https://zenodo.org/record/6988532#.YveVmXUzY5k)  |
