@@ -39,19 +39,19 @@ We trained the FastText embeddings using [Gensim 3.8.1](https://pypi.org/project
 | bbj | [Ghomala FastText](https://zenodo.org/record/6988547#.YveVlHUzY5k)  |
 | ewe | [Ewe FastText](https://zenodo.org/record/6988555#.YveVknUzY5k)  |
 | fon | [Fon FastText](https://zenodo.org/record/6988727#.YveVonUzY5k) |
-| hau |   |
+| hau | [Hausa FastText](https://zenodo.org/record/6989326#.YvgMA3UzY5k) |
 | ibo | [Igbo FastText](https://zenodo.org/record/6988731#.Yve923UzY5k)  |
 | kin | [Kinyarwanda FastText](https://zenodo.org/record/6988740#.Yve93nUzY5k)  |
 | lug | [Luganda FastText](https://zenodo.org/record/6988742#.Yve94XUzY5k)  |
 | luo | [Luo FastText](https://zenodo.org/record/6988914#.Yve_bHUzY5k)  |
 | mos | [Mossi FastText](https://zenodo.org/record/6988918#.Yve_bXUzY5k) |
-| nya |   |
+| nya | [Chichewa FastText](https://zenodo.org/record/6988932#.YvgMJXUzY5k)  |
 | pcm | [Nigerian-Pidgin FastText](https://zenodo.org/record/6988939#.YvfDDHUzY5k)  |
 | sna | [Setswana FastText](https://zenodo.org/record/6989116#.YvfNc3UzY5k) |
-| swa |   |
-| tsn |   |
+| swa | [Swahili FastText](https://zenodo.org/record/6989122#.YvgMTnUzY5k)  |
+| tsn | [Setswana FastText](https://zenodo.org/record/6989116#.YvgMjHUzY5k) |
 | twi | [Twi FastText](https://zenodo.org/record/6988532#.YveVmXUzY5k)  |
-| wol |   |
-| xho |   |
+| wol | [Wolof FastText](https://zenodo.org/record/6989168#.YvgMznUzY5k)  |
+| xho | [Xhosa FastText](https://zenodo.org/record/6989303#.YvgM6nUzY5k)  |
 | yor | [Yoruba FastText](https://zenodo.org/record/6987250#.YveVi3UzY5k)  |
-| zul |   |
+| zul | [Zulu FastText](https://zenodo.org/record/6989305#.YvgNCXUzY5k) |
