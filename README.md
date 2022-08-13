@@ -1,14 +1,14 @@
-# AfricaNLP resources
+ # AfricaNLP resources
 List of all the resources we developed in collaboration with LSV and Masakhane during my doctoral studies and beyond
 
 ## Labelled Datasets for AfricaNLP
 
 | Dataset Name | NLP Task | Link to Publication  | Languages covered |
 |----------|----------|--------|----------------------------|
-| MasakhaNER | | | |
-| MAFAND-MT | | | |
-| ANTC      | | | |
-| MENYO-20K | | | |
+| MasakhaNER | named entity recognition | [MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66/)  | amh, hau, ibo, kin, lug, luo, pcm, swa, wol, yor|
+| MAFAND-MT | machine translation | | |
+| ANTC      | News-topic classification | | |
+| MENYO-20K | machine translatio | | |
 
 
 ## Multilingual Pre-trained Language Models
