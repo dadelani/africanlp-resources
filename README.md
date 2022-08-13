@@ -11,16 +11,16 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 
 
 ## Multilingual Pre-trained Language Models
-The models below are created using [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487)
-| Model | Size  | Languages covered |
+The models below are created using [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487). We list the model, model size (in millions), and the languages covered. 
+| Model | Size (M)  | Languages covered |
 |-------|-------|-----------------|
-| AfroXLMR-mini | |
-| AfroXLMR-small | |
-| AfroXLMR-base | |
-| AfroXLMR-large | |
-| AfriMT5 | |
-| AfriByT5 | |
-| AfriMBART | |
+| [AfroXLMR-mini](https://huggingface.co/Davlan/afro-xlmr-mini) | 117M |
+| [AfroXLMR-small](https://huggingface.co/Davlan/afro-xlmr-small) | 140M |
+| [AfroXLMR-base](https://huggingface.co/Davlan/afro-xlmr-base) | 270M |
+| [AfroXLMR-large](https://huggingface.co/Davlan/afro-xlmr-large) | 550M |
+| [AfriMT5](https://huggingface.co/masakhane/afri-mt5-base) | 580M |
+| [AfriByT5](https://huggingface.co/masakhane/afri-byt5-base) | 580M |
+| [AfriMBART](https://huggingface.co/masakhane/afri-mbart50) | 610M |
 
 ## Language Adaptive Fine-tuning (LAFT) Models
 | Language | mBERT  | XLM-R-base | XLM-R-large |
