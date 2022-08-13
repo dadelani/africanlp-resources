@@ -25,6 +25,7 @@ The models below are created using [multilingual adaptive fine-tuning (MAFT)](ht
 | [AfriMBART](https://huggingface.co/masakhane/afri-mbart50) | 610M | Seq-to-Seq |
 
 ## Language Adaptive Fine-tuning (LAFT) Models
+The following PLMs are created by language adaptation to a language using monolingual corpus in that language. The monolingual corpus used to create them are described in the [MasakhaNER paper](https://aclanthology.org/2021.tacl-1.66/) and [MAFT paper](https://arxiv.org/abs/2204.06487)
 | Language | mBERT  | XLM-R-base | XLM-R-large |
 |----------|--------|------------|-------------|
 | amh      |        |            |             |
