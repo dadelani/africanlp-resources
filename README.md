@@ -7,10 +7,10 @@ We provide better quality word embeddings than the [pre-trained FastText embeddi
 | Language | Link to Model  |
 |----------|-----------------|
 | amh | [Amharic FastText](https://zenodo.org/record/6988528#.YvePxXUzY5k)  |
-| bam |   |
-| bbj |   |
-| ewe |   |
-| fon |   |
+| bam | [Bambara FastText](https://zenodo.org/record/6987246#.YveVNnUzY5k) |
+| bbj | [Ghomala FastText](https://zenodo.org/record/6988547#.YveVlHUzY5k)  |
+| ewe | [Ewe FastText](https://zenodo.org/record/6988555#.YveVknUzY5k)  |
+| fon |  [Fon FastText](https://zenodo.org/record/6988727#.YveVonUzY5k) |
 | hau |   |
 | ibo |   |
 | kin |   |
@@ -22,8 +22,8 @@ We provide better quality word embeddings than the [pre-trained FastText embeddi
 | sna |   |
 | swa |   |
 | tsn |   |
-| twi |   |
+| twi | [Twi FastText](https://zenodo.org/record/6988532#.YveVmXUzY5k)  |
 | wol |   |
 | xho |   |
-| yor |   |
+| yor | [Yoruba FastText](https://zenodo.org/record/6987250#.YveVi3UzY5k)  |
 | zul |   |
