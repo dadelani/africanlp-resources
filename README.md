@@ -28,20 +28,20 @@ The models below are created using [multilingual adaptive fine-tuning (MAFT)](ht
 The following PLMs are created by language adaptation to a language using monolingual corpus in that language. The monolingual corpus used to create them are described in the [MasakhaNER paper](https://aclanthology.org/2021.tacl-1.66/) and [MAFT paper](https://arxiv.org/abs/2204.06487)
 | Language | mBERT  | XLM-R-base | XLM-R-large |
 |----------|--------|------------|-------------|
-| amh      |        | [Davlan/xlm-roberta-base-finetuned-amharic](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-amharic)           |             |
+| amh      | [Davlan/bert-base-multilingual-cased-finetuned-amharic](https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-amharic)       | [Davlan/xlm-roberta-base-finetuned-amharic](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-amharic)           |             |
 | hau      |        | [Davlan/xlm-roberta-base-finetuned-hausa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-hausa)           |             |
-| ibo      |        | [Davlan/xlm-roberta-base-finetuned-igbo](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-igbo)           |             |
-| kin      |        | [Davlan/xlm-roberta-base-finetuned-kinyarwanda](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-kinyarwanda)           |             |
+| ibo      | [Davlan/bert-base-multilingual-cased-finetuned-igbo](https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-igbo)       | [Davlan/xlm-roberta-base-finetuned-igbo](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-igbo)           |             |
+| kin      | [Davlan/bert-base-multilingual-cased-finetuned-kinyarwanda](https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-kinyarwanda)        | [Davlan/xlm-roberta-base-finetuned-kinyarwanda](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-kinyarwanda)           |             |
 | lin      |        |  [Davlan/xlm-roberta-base-finetuned-lingala](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-lingala)          |             |
-| lug      |        | [Davlan/xlm-roberta-base-finetuned-luganda](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-luganda)           |             |
-| luo      |        | [Davlan/xlm-roberta-base-finetuned-luo](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-luo)          |             |
+| lug      | [Davlan/bert-base-multilingual-cased-finetuned-luganda](https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-luganda)       | [Davlan/xlm-roberta-base-finetuned-luganda](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-luganda)           |             |
+| luo      | [Davlan/bert-base-multilingual-cased-finetuned-luo](https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-luo)       | [Davlan/xlm-roberta-base-finetuned-luo](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-luo)          |             |
 | mlg      |        |            |             |
 | nya      |        | [Davlan/xlm-roberta-base-finetuned-chichewa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-chichewa)           |             |
-| pcm      |        | [Davlan/xlm-roberta-base-finetuned-naija](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-naija)          |             |
+| pcm      | [Davlan/bert-base-multilingual-cased-finetuned-naija](https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-naija)        | [Davlan/xlm-roberta-base-finetuned-naija](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-naija)          |             |
 | sna      |        | [Davlan/xlm-roberta-base-finetuned-shona](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-shona)           |             |
 | som      |        | [Davlan/xlm-roberta-base-finetuned-somali](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-somali)           |             |
 | swa      |        | [Davlan/xlm-roberta-base-finetuned-swahili](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-swahili)           |             |
-| wol      |        |            [Davlan/xlm-roberta-base-finetuned-wolof](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-wolof)  |           |
+| wol      | [Davlan/bert-base-multilingual-cased-finetuned-wolof](https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-wolof)       |            [Davlan/xlm-roberta-base-finetuned-wolof](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-wolof)  |           |
 | xho      |        | [Davlan/xlm-roberta-base-finetuned-xhosa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-xhosa)          |             |
 | yor      |        | [Davlan/xlm-roberta-base-finetuned-yoruba](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-yoruba)           |             |
 | zul      |        | [Davlan/xlm-roberta-base-finetuned-zulu](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-zulu)           |             |
