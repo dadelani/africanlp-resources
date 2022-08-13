@@ -7,8 +7,8 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 |----------|----------|--------|----------------------------|
 | MasakhaNER | named entity recognition | [MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66/)  | amh, hau, ibo, kin, lug, luo, pcm, swa, wol, yor|
 | MAFAND-MT | machine translation | | |
-| ANTC      | News-topic classification | | |
-| MENYO-20K | machine translatio | | |
+| ANTC      | News-topic classification | | lin, pcm, mlg, som, zul |
+| MENYO-20K | machine translatio | | yor|
 
 
 ## Multilingual Pre-trained Language Models
@@ -28,6 +28,21 @@ The models below are created using [multilingual adaptive fine-tuning (MAFT)](ht
 | Language | mBERT  | XLM-R-base | XLM-R-large |
 |----------|--------|------------|-------------|
 | amh      |        |            |             |
+| hau      |        |            |             |
+| ibo      |        |            |             |
+| kin      |        |            |             |
+| lin      |        |            |             |
+| lug      |        |            |             |
+| luo      |        |            |             |
+| mlg      |        |            |             |
+| pcm      |        |            |             |
+| som      |        |            |             |
+| swa      |        |            |             |
+| amh      |        |            |             |
+| wol      |        |            |             |
+| xho      |        |            |             |
+| yor      |        |            |             |
+| zul      |        |            |             |
 
 ## FastText Embeddings for African languages
 We provide better quality word embeddings than the [pre-trained FastText embeddings](https://fasttext.cc/docs/en/crawl-vectors.html) trained on Common crawl and Wikipedia. While we did not evaluate the quality on all the languages, our evaluation on Yoruba and Twi shows that they give better performance on word similarity tasks. The FastText embeddings are trained on curated data from JW300, Bible, VOA, BBC, and other news websites. Details of the data sources are in my PhD dissertation. 
