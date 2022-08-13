@@ -30,19 +30,18 @@ The following PLMs are created by language adaptation to a language using monoli
 |----------|--------|------------|-------------|
 | amh      |        | [Davlan/xlm-roberta-base-finetuned-amharic](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-amharic)           |             |
 | hau      |        | [Davlan/xlm-roberta-base-finetuned-hausa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-hausa)           |             |
-| ibo      |        |            |             |
-| kin      |        |            |             |
+| ibo      |        | [Davlan/xlm-roberta-base-finetuned-igbo](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-igbo)           |             |
+| kin      |        | [Davlan/xlm-roberta-base-finetuned-kinyarwanda](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-kinyarwanda)           |             |
 | lin      |        |  [Davlan/xlm-roberta-base-finetuned-lingala](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-lingala)          |             |
-| lug      |        |            |             |
+| lug      |        | [Davlan/xlm-roberta-base-finetuned-luganda](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-luganda)           |             |
 | luo      |        | [Davlan/xlm-roberta-base-finetuned-luo](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-luo)          |             |
 | mlg      |        |            |             |
 | nya      |        | [Davlan/xlm-roberta-base-finetuned-chichewa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-chichewa)           |             |
-| pcm      |        |            |             |
+| pcm      |        | [Davlan/xlm-roberta-base-finetuned-naija](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-naija)          |             |
 | sna      |        | [Davlan/xlm-roberta-base-finetuned-shona](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-shona)           |             |
 | som      |        | [Davlan/xlm-roberta-base-finetuned-somali](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-somali)           |             |
 | swa      |        | [Davlan/xlm-roberta-base-finetuned-swahili](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-swahili)           |             |
-| amh      |        |            |             |
-| wol      |        |            |             |
+| wol      |        |            [Davlan/xlm-roberta-base-finetuned-wolof](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-wolof)  |           |
 | xho      |        | [Davlan/xlm-roberta-base-finetuned-xhosa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-xhosa)          |             |
 | yor      |        | [Davlan/xlm-roberta-base-finetuned-yoruba](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-yoruba)           |             |
 | zul      |        | [Davlan/xlm-roberta-base-finetuned-zulu](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-zulu)           |             |
