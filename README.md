@@ -41,8 +41,8 @@ We trained the FastText embeddings using [Gensim 3.8.1](https://pypi.org/project
 | fon | [Fon FastText](https://zenodo.org/record/6988727#.YveVonUzY5k) |
 | hau |   |
 | ibo | [Igbo FastText](https://zenodo.org/record/6988731#.Yve923UzY5k)  |
-| kin |   |
-| lug |   |
+| kin | [Kinyarwanda FastText](https://zenodo.org/record/6988740#.Yve93nUzY5k)  |
+| lug | [Luganda FastText](https://zenodo.org/record/6988742#.Yve94XUzY5k)  |
 | luo |   |
 | mos |   |
 | nya |   |
