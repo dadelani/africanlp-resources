@@ -38,9 +38,9 @@ We trained the FastText embeddings using [Gensim 3.8.1](https://pypi.org/project
 | bam | [Bambara FastText](https://zenodo.org/record/6987246#.YveVNnUzY5k) |
 | bbj | [Ghomala FastText](https://zenodo.org/record/6988547#.YveVlHUzY5k)  |
 | ewe | [Ewe FastText](https://zenodo.org/record/6988555#.YveVknUzY5k)  |
-| fon |  [Fon FastText](https://zenodo.org/record/6988727#.YveVonUzY5k) |
+| fon | [Fon FastText](https://zenodo.org/record/6988727#.YveVonUzY5k) |
 | hau |   |
-| ibo |   |
+| ibo | [Igbo FastText](https://zenodo.org/record/6988731#.Yve923UzY5k)  |
 | kin |   |
 | lug |   |
 | luo |   |
