@@ -3,11 +3,11 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 
 ## Labelled Datasets for AfricaNLP
 
-| Dataset Name | Link to Publication  | Languages covered |
+| Dataset Name | NLP Task | Link to Publication  | Languages covered |
 |----------|-----------------|----------------------------|
-| MasakhaNER | | |
-| MAFAND-MT | | |
-| ANTC      | | |
+| MasakhaNER | | | |
+| MAFAND-MT | | | |
+| ANTC      | | | |
 
 
 ## Multilingual Pre-trained Language Models
