@@ -28,22 +28,24 @@ The models below are created using [multilingual adaptive fine-tuning (MAFT)](ht
 The following PLMs are created by language adaptation to a language using monolingual corpus in that language. The monolingual corpus used to create them are described in the [MasakhaNER paper](https://aclanthology.org/2021.tacl-1.66/) and [MAFT paper](https://arxiv.org/abs/2204.06487)
 | Language | mBERT  | XLM-R-base | XLM-R-large |
 |----------|--------|------------|-------------|
-| amh      |        |            |             |
-| hau      |        |            |             |
+| amh      |        | [Davlan/xlm-roberta-base-finetuned-amharic](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-amharic)           |             |
+| hau      |        | [Davlan/xlm-roberta-base-finetuned-hausa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-hausa)           |             |
 | ibo      |        |            |             |
 | kin      |        |            |             |
-| lin      |        |  [xlm-roberta-base-finetuned-lingala](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-lingala)          |             |
+| lin      |        |  [Davlan/xlm-roberta-base-finetuned-lingala](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-lingala)          |             |
 | lug      |        |            |             |
-| luo      |        |            |             |
+| luo      |        | [Davlan/xlm-roberta-base-finetuned-luo](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-luo)          |             |
 | mlg      |        |            |             |
+| nya      |        | [Davlan/xlm-roberta-base-finetuned-chichewa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-chichewa)           |             |
 | pcm      |        |            |             |
-| som      |        |            |             |
-| swa      |        |            |             |
+| sna      |        | [Davlan/xlm-roberta-base-finetuned-shona](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-shona)           |             |
+| som      |        | [Davlan/xlm-roberta-base-finetuned-somali](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-somali)           |             |
+| swa      |        | [Davlan/xlm-roberta-base-finetuned-swahili](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-swahili)           |             |
 | amh      |        |            |             |
 | wol      |        |            |             |
-| xho      |        |            |             |
-| yor      |        |            |             |
-| zul      |        |            |             |
+| xho      |        | [Davlan/xlm-roberta-base-finetuned-xhosa](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-xhosa)          |             |
+| yor      |        | [Davlan/xlm-roberta-base-finetuned-yoruba](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-yoruba)           |             |
+| zul      |        | [Davlan/xlm-roberta-base-finetuned-zulu](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-zulu)           |             |
 
 ## FastText Embeddings for African languages
 We provide better quality word embeddings than the [pre-trained FastText embeddings](https://fasttext.cc/docs/en/crawl-vectors.html) trained on Common crawl and Wikipedia. While we did not evaluate the quality on all the languages, our evaluation on Yoruba and Twi shows that they give better performance on word similarity tasks. The FastText embeddings are trained on curated data from JW300, Bible, VOA, BBC, and other news websites. Details of the data sources are in my PhD dissertation. 
