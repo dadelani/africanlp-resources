@@ -11,7 +11,7 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 
 
 ## Multilingual Pre-trained Language Models
-The models below are created using [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487) on XLMR-distilled model, XLM-R, mT5, ByT5 and mBART. We list the model, model size (in millions), and architecture. The languages covered are: afr, amh, ara, eng, fra, hau, ibo, mlg, nya, orm, pcm, kin, run, sna, som, sot, swa, xho, yor, zul 
+The models below are created using [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487) on XLMR-distilled model, XLM-R, mT5, ByT5 and mBART. We list the model, model size (in millions), and architecture. We cover the following 20 languages: afr, amh, ara, eng, fra, hau, ibo, mlg, nya, orm, pcm, kin, run, sna, som, sot, swa, xho, yor, zul 
 
 | Model | Size (M)  | architecture |
 |-------|-------|-----------------|
