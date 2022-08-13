@@ -32,7 +32,7 @@ The following PLMs are created by language adaptation to a language using monoli
 | hau      |        |            |             |
 | ibo      |        |            |             |
 | kin      |        |            |             |
-| lin      |        |            |             |
+| lin      |        |  [xlm-roberta-base-finetuned-lingala](https://huggingface.co/Davlan/xlm-roberta-base-finetuned-lingala)          |             |
 | lug      |        |            |             |
 | luo      |        |            |             |
 | mlg      |        |            |             |
