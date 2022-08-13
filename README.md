@@ -8,8 +8,7 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | named entity recognition | [MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66/)  | amh, hau, ibo, kin, lug, luo, pcm, swa, wol, yor|
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt) | machine translation | [A Few Thousand Translations Go a Long Way](https://aclanthology.org/2022.naacl-main.223/)| amh, bam, bbj, ewe, fon, hau, ibo, kin, lug, luo, mos, nya, pcm, sna, swa, tsn, twi, wol, xho, yor, zul|
 | [ANTC](https://github.com/uds-lsv/afro-maft)      | News-topic classification | [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487) | lin, pcm, mlg, som, zul |
-| [MENYO-20K](https://github.com/uds-lsv/menyo-20k_MT) | machine translatio | [MENYO-20k: A Multi-domain English–Yoruba Corpus
-for Machine Translation](https://arxiv.org/abs/2103.08647v1)| yor|
+| [MENYO-20K](https://github.com/uds-lsv/menyo-20k_MT) | machine translatio | [MENYO-20k: A Multi-domain English–Yoruba Corpus for Machine Translation](https://arxiv.org/abs/2103.08647v1)| yor|
 
 
 ## Multilingual Pre-trained Language Models
