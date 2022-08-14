@@ -12,7 +12,7 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 
 ## Unlabelled Corpus for AfricaNLP
 - [African News corpus](https://zenodo.org/record/6990609#.Yvjgu3UzY5k): Please cite our [MAFT paper](https://arxiv.org/abs/2204.06487) if you use it
-- [AfroMAFT Corpus](https://zenodo.org/record/6990611#.Yvjq5nUzY5k) Language Adaptation Corpus for 17 African languages, English, French and Arabic: Please cite the [MAFAND paper](https://aclanthology.org/2022.naacl-main.223/) if you use it. We use this corpus to train all the multilingual PLMs listed below
+- [AfroMAFT Corpus](https://zenodo.org/record/6990611#.Yvjq5nUzY5k): Language Adaptation Corpus for 17 African languages, English, French and Arabic. Please cite the [MAFAND paper](https://aclanthology.org/2022.naacl-main.223/) if you use it. We use this corpus to train all the multilingual PLMs listed below
 
 
 ## Multilingual Pre-trained Language Models
