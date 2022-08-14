@@ -10,6 +10,10 @@ List of all the resources we developed in collaboration with LSV and Masakhane d
 | [ANTC](https://github.com/uds-lsv/afro-maft)      | News-topic classification | [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487) | lin, pcm, mlg, som, zul |
 | [MENYO-20K](https://github.com/uds-lsv/menyo-20k_MT) | machine translatio | [MENYO-20k: A Multi-domain English–Yoruba Corpus for Machine Translation](https://arxiv.org/abs/2103.08647v1)| yor|
 
+## Unlabelled Corpus for AfricaNLP
+- [African News corpus](https://zenodo.org/record/6990609#.Yvjgu3UzY5k): Please cite our [MAFT paper](https://arxiv.org/abs/2204.06487) if you use it
+- [Language Adaptation corpus]() for 17 African languages, English, French and Arabic: Please cite the [MAFAND paper](https://aclanthology.org/2022.naacl-main.223/) if you use it. We use this corpus to train all the multilingual PLMs listed below
+
 
 ## Multilingual Pre-trained Language Models
 The models below are created using [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487) on XLMR-distilled model, XLM-R, mT5, ByT5 and mBART. We list the model, model size (in millions), and architecture. We cover the following 20 languages: afr, amh, ara, eng, fra, hau, ibo, mlg, nya, orm, pcm, kin, run, sna, som, sot, swa, xho, yor, zul 
