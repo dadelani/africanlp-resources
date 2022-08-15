@@ -7,8 +7,14 @@ List of all the resources we developed in collaboration with [LSV](https://www.l
 |----------|----------|--------|----------------------------|
 | [MasakhaNER](https://github.com/masakhane-io/masakhane-ner) | named entity recognition | [MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66/)  | amh, hau, ibo, kin, lug, luo, pcm, swa, wol, yor|
 | [MAFAND-MT](https://github.com/masakhane-io/lafand-mt) | machine translation | [A Few Thousand Translations Go a Long Way](https://aclanthology.org/2022.naacl-main.223/)| amh, bam, bbj, ewe, fon, hau, ibo, kin, lug, luo, mos, nya, pcm, sna, swa, tsn, twi, wol, xho, yor, zul|
-| [ANTC](https://github.com/uds-lsv/afro-maft)      | News-topic classification | [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487) | lin, pcm, mlg, som, zul |
-| [MENYO-20K](https://github.com/uds-lsv/menyo-20k_MT) | machine translatio | [MENYO-20k: A Multi-domain English–Yoruba Corpus for Machine Translation](https://arxiv.org/abs/2103.08647v1)| yor|
+| [ANTC](https://github.com/uds-lsv/afro-maft)      | news-topic classification | [multilingual adaptive fine-tuning (MAFT)](https://arxiv.org/abs/2204.06487) | lin, pcm, mlg, som, zul |
+| [MENYO-20K](https://github.com/uds-lsv/menyo-20k_MT) | machine translation | [MENYO-20k: A Multi-domain English–Yoruba Corpus for Machine Translation](https://arxiv.org/abs/2103.08647v1)| yor|
+| [MENYO-20K](https://github.com/uds-lsv/menyo-20k_MT) | machine translation | [MENYO-20k: A Multi-domain English–Yoruba Corpus for Machine Translation](https://arxiv.org/abs/2103.08647v1)| yor|
+| [NaijaSenti](https://github.com/hausanlp/NaijaSenti) | sentiment classification | [NaijaSenti: A Nigerian Twitter Sentiment Corpus](https://arxiv.org/abs/2201.08277)| hau, ibo, pcm, yor|
+| [Hausa and Yoruba News Topic](https://github.com/uds-lsv/transfer-distant-transformer-african) | news-topic classification | [Transfer Learning and Distant Supervision for Multilingual Transformer Models](https://aclanthology.org/2020.emnlp-main.204/)| hau, yor|
+| [Hausa VOA NER](https://github.com/uds-lsv/transfer-distant-transformer-african) | named entity recognition | [Transfer Learning and Distant Supervision for Multilingual Transformer Models](https://aclanthology.org/2020.emnlp-main.204/)| hau, yor|
+| [Yoruba NER](https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yoruba-NER) | named entity recognition | [Massive vs. Curated Word Embeddings for Low-Resourced Languages](https://aclanthology.org/2020.lrec-1.335/)| yor|
+
 
 ## Unlabelled Corpus for AfricaNLP
 - [African News corpus](https://zenodo.org/record/6990609#.Yvjgu3UzY5k): Please cite our [MAFT paper](https://arxiv.org/abs/2204.06487) if you use it
