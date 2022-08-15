@@ -13,7 +13,7 @@ List of all the resources we developed in collaboration with [LSV](https://www.l
 | [NaijaSenti](https://github.com/hausanlp/NaijaSenti) | sentiment classification | [NaijaSenti: A Nigerian Twitter Sentiment Corpus](https://arxiv.org/abs/2201.08277)| hau, ibo, pcm, yor|
 | [Hausa and Yoruba News Topic](https://github.com/uds-lsv/transfer-distant-transformer-african) | news-topic classification | [Transfer Learning and Distant Supervision for Multilingual Transformer Models](https://aclanthology.org/2020.emnlp-main.204/)| hau, yor|
 | [Hausa VOA NER](https://github.com/uds-lsv/transfer-distant-transformer-african) | named entity recognition | [Transfer Learning and Distant Supervision for Multilingual Transformer Models](https://aclanthology.org/2020.emnlp-main.204/)| hau, yor|
-| [Yoruba NER](https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yoruba-NER) | named entity recognition | [Massive vs. Curated Word Embeddings for Low-Resourced Languages](https://aclanthology.org/2020.lrec-1.335/)| yor|
+| [Yoruba GV NER](https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yoruba-NER) | named entity recognition | [Massive vs. Curated Word Embeddings for Low-Resourced Languages](https://aclanthology.org/2020.lrec-1.335/)| yor|
 
 
 ## Unlabelled Corpus for AfricaNLP
