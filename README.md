@@ -1,5 +1,5 @@
  # AfricaNLP resources
-List of all the resources we developed in collaboration with LSV and Masakhane during my doctoral studies and beyond
+List of all the resources we developed in collaboration with [LSV](https://www.lsv.uni-saarland.de/) and [Masakhane](https://www.masakhane.io/) during my doctoral studies and beyond
 
 ## Labelled Datasets for AfricaNLP
 
